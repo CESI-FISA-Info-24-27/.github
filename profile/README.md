@@ -18,9 +18,16 @@ Annee en cours : A5 (2026/2027), derniere annee du cycle. Objectif : projet de f
 | 31/05/2027 | PFE session de juillet : envoi des rapports aux membres du jury |
 | 26/07/2027 | PFE session de septembre : envoi des rapports aux membres du jury |
 
-## Depots de l'annee
+## Depots de l'annee A5
 
-Les depots lies aux blocs de l'annee A5 (Option, Ingenierie durable) seront crees a leur lancement.
+| Projet | Periode | Depot | Moodle |
+|:--|:--|:--|:--|
+| Management de projet | A partir du 09/11/2026 | [A5-Management-De-Projet](https://github.com/CESI-FISA-Info-24-27/A5-Management-De-Projet) | (a venir) |
+| Ingenierie durable | Lancement 02/11/2026, campus 08/02 puis 10/05/2027 | [A5-Ingenierie-Durable](https://github.com/CESI-FISA-Info-24-27/A5-Ingenierie-Durable) | (a venir) |
+| Option | A partir du 15/02/2027, puis du 13/05/2027 | [A5-Option](https://github.com/CESI-FISA-Info-24-27/A5-Option) | (a venir) |
+| Projet de fin d'etudes | Rapports : 31/05/2027 (juillet) ou 26/07/2027 (septembre) | [A5-PFE](https://github.com/CESI-FISA-Info-24-27/A5-PFE) | (a venir) |
+
+Les depots de groupe sont generes depuis le depot [template-groupe](https://github.com/CESI-FISA-Info-24-27/template-groupe) (bouton Use this template).
 
 Conventions de nommage :
 
